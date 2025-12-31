@@ -31,7 +31,6 @@ int main()
     system().studentEnrollsInCourse("S003", "CS201");
     system().studentEnrollsInCourse("S003", "MATH101");
 
-
     system().studentEnrollsInCourse("S004", "CS101");
     system().studentEnrollsInCourse("S004", "CS201");
 
